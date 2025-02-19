@@ -1,0 +1,4 @@
+﻿@media (max-width: 1200px) {
+.main   
+margin: calc(20px + (50 - 20 *((100vw - 30px) / (1200-320)));
+}
